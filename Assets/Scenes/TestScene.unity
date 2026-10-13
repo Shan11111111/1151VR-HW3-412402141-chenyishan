@@ -318,9 +318,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RouletteController
   audioSource: {fileID: 463310115}
   loopAudioSource: {fileID: 463310114}
-  clickClip: {fileID: 0}
-  rotateClip: {fileID: 0}
-  stopClip: {fileID: 0}
+  clickClip: {fileID: 8300000, guid: e7412586bcf9b9446808cc94a6bf12f4, type: 3}
+  rotateClip: {fileID: 8300000, guid: 10255eae6347f9e448f13b973a7b099b, type: 3}
+  stopClip: {fileID: 8300000, guid: d58ed66268ce6ea44a60b2a88c88056b, type: 3}
 --- !u!82 &463310114
 AudioSource:
   m_ObjectHideFlags: 0
