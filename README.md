@@ -1,6 +1,6 @@
 # 1151VR-HW3-412402141-陳怡珊
 <br>
-1、專案截圖
+1、專案截圖<br>
  <img width="865" height="517" alt="image" src="https://github.com/user-attachments/assets/68e39eaf-328e-4f69-bebe-0660d1ae16e6" />
 <br>
 2、github連結
@@ -28,11 +28,11 @@ https://youtube.com/shorts/_8F8b6SRGfM?si=tf2_x-hS15dBGExs
 (6)、建置與測試<br>
     專案已透過 Unity Android Build，Console 顯示 Build completed with a result of 'Succeeded'，確認 APK 建置程序成功。Android 實機操作結果。如YT影片所示。<br>
 (7)、遊戲操作說明<br>
-1.	點擊螢幕，啟動輪盤遊戲。
-2.	透過遊戲所設定的滑鼠或觸控操作啟動旋轉。
-3.	觀察輪盤轉動與速度變化。
-4.	等待輪盤減速並停止。
-5.	依照指針位置確認最終結果。
+1.	點擊螢幕，啟動輪盤遊戲。<br>
+2.	透過遊戲所設定的滑鼠或觸控操作啟動旋轉。<br>
+3.	觀察輪盤轉動與速度變化。<br>
+4.	等待輪盤減速並停止。<br>
+5.	依照指針位置確認最終結果。<br>
 (8)測試結果<br>
     本專案完成 Unity 2D 輪盤遊戲的基本畫面及旋轉功能，並成功執行 Android 平台建置。開發過程中曾遇到 Unity 新舊輸入系統的相容性問題，導致 RouletteController.cs 無法正確讀取輸入。經過調整 Active Input Handling 設定後，恢復輪盤的正常操作。<br>
 
